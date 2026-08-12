@@ -3,6 +3,10 @@
 This repository is the versioned reproducibility archive for the study
 "Control event rate assumption errors and their counterfactual power consequences in randomized trials of adult intensive care: a design audit of public records."
 
+## Version
+
+This tree is release **v1.0.1** (patch over 1.0.0). Scientific denominators and results are unchanged. The patch aligns public protocol and dictionary wording with the manuscript: dual independent extraction by two researchers, lead-researcher adjudication, and the quality-control field `extractor_disagreement_status`.
+
 ## Contents
 
 - `workspace/data/formal_extraction.csv`: 100-trial structured analysis dataset.
@@ -37,4 +41,4 @@ The `control_event_rate_compromised` flag is a design-power diagnostic. It does 
 
 ## Citation
 
-Use the metadata in `CITATION.cff`. The preferred citation for this archive is https://doi.org/10.5281/zenodo.21904231 (Zenodo version 1.0.0).
+Use the metadata in `CITATION.cff`. The preferred citation for this archive is https://doi.org/10.5281/zenodo.21904230 (Zenodo version 1.0.1). The concept DOI for all versions is https://doi.org/10.5281/zenodo.21904230.

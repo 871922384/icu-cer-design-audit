@@ -35,4 +35,4 @@ counterfactual_mde_scale,反事实MDE尺度,categorical,conditional,absolute_dif
 counterfactual_mde_value,反事实最小可检出效应,numeric,conditional,按原设计尺度,固定公式重算,主结果伴随量
 mde_to_assumed_effect_ratio,MDE与原假设效应之比,numeric,conditional,正数,同尺度派生,跨试验比较
 control_event_rate_compromised,基线风险相关功效受损标记,categorical,conditional,yes/no/unclear,由协议规则派生,阴性解释边界
-agent_disagreement_status,双agent分歧状态,categorical,yes,none/adjudication_required/resolved,分歧日志,质控
+extractor_disagreement_status,双提取者分歧状态,categorical,yes,none/adjudication_required/resolved,分歧日志,质控

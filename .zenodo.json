@@ -1,7 +1,8 @@
 {
   "title": "Control event rate assumption errors in adult ICU randomized trials - data and code",
-  "description": "Versioned trial-level dataset, frozen analysis code, protocols, figures, and tables for a meta-epidemiological design audit of 100 adult ICU randomized trials.",
+  "description": "Versioned trial-level dataset, frozen analysis code, protocols, figures, and tables for a meta-epidemiological design audit of 100 adult ICU randomized trials. Release 1.0.1 is a terminology patch aligning dual-extraction wording with the manuscript; frozen scientific results are unchanged from 1.0.0.",
   "upload_type": "dataset",
+  "version": "1.0.1",
   "creators": [
     {
       "name": "Liao, Min"
@@ -27,5 +28,19 @@
     "minimum detectable effect"
   ],
   "license": "cc-by-4.0",
-  "access_right": "open"
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.21904230",
+      "relation": "isVersionOf",
+      "resource_type": "dataset",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://github.com/871922384/icu-cer-design-audit/releases/tag/v1.0.1",
+      "relation": "isIdenticalTo",
+      "resource_type": "dataset",
+      "scheme": "url"
+    }
+  ]
 }

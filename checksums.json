@@ -1,13 +1,13 @@
 {
-  "release": "v1.0.0",
+  "release": "v1.0.1",
   "files": [
     {
       "path": ".zenodo.json",
-      "sha256": "857c8506a7eb2b81b05c2a077bd21d895663be60c2c1f337c32306de6a61dbd3"
+      "sha256": "d9013f02f4125d08999659f09ee6d8ef789a3fafeeed92451c15b9f68613a04b"
     },
     {
       "path": "CITATION.cff",
-      "sha256": "599fe13ace2877ea8addb4ba75687a0130aa99e7182e1d0d844afa7292628602"
+      "sha256": "7d79484779b3fbac82de19fd572c834bc191a559bec12645bca654e11018789b"
     },
     {
       "path": "LICENSE-CODE",
@@ -19,11 +19,11 @@
     },
     {
       "path": "README.md",
-      "sha256": "52aa16b094d783e7bd33cb3f03a63e0733ab6612291820e439e2493bb495cb3f"
+      "sha256": "75342040532df951d1d29a0c68298047eb852dd95ed2fef20d1af0998029e72f"
     },
     {
       "path": "notes/data-dictionary.csv",
-      "sha256": "a3d454e3ff7443f292ad9b354241dc59338ff722c86975d9d2a4c8a3f9031718"
+      "sha256": "725af3e19729c689cebb4ffae6acbad92060c8ceaf96cfd5d5d51e122426e223"
     },
     {
       "path": "output/figures/Figure 1 - CER assumption error.png",
@@ -43,7 +43,7 @@
     },
     {
       "path": "protocols/02_formal研究设计协议_v0.2.md",
-      "sha256": "c8470def48322efcf16838d00230c7155f62d72404d44ecdbbc4dc8a6fc4c673"
+      "sha256": "6678f8ca0d08b6307b98aeaead262bef5affb98397546b5ad52297b06bbefbac"
     },
     {
       "path": "scripts/build_formal_analysis_outputs.R",
@@ -59,7 +59,7 @@
     },
     {
       "path": "workspace/data/formal_extraction.csv",
-      "sha256": "6e4667c5afc8213e9297ef6a2fb9eeb5fa5ff5db98d904c55e9ec213512195d8"
+      "sha256": "a4903f65f49e569df569318e432610aec9b93f6bc9e6569090f71d5a850170df"
     }
   ]
 }
