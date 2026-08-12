@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: If you use this dataset or code, please cite this archive.
+title: Control event rate assumption errors in adult ICU randomized trials - data and code
+type: dataset
+version: 1.0.0
+date-released: 2026-08-12
+authors:
+  - family-names: Liao
+    given-names: Min
+  - family-names: Wang
+    given-names: Lijie
+  - family-names: Xie
+    given-names: Feifei
+  - family-names: He
+    given-names: Menglu
+  - family-names: Xu
+    given-names: Jinlong
+keywords:
+  - critical care
+  - randomized controlled trials
+  - control event rate
+  - statistical power
+  - minimum detectable effect
+license: CC-BY-4.0
+repository-code: https://github.com/871922384/icu-cer-design-audit

@@ -1,0 +1,31 @@
+{
+  "title": "Control event rate assumption errors in adult ICU randomized trials - data and code",
+  "description": "Versioned trial-level dataset, frozen analysis code, protocols, figures, and tables for a meta-epidemiological design audit of 100 adult ICU randomized trials.",
+  "upload_type": "dataset",
+  "creators": [
+    {
+      "name": "Liao, Min"
+    },
+    {
+      "name": "Wang, Lijie"
+    },
+    {
+      "name": "Xie, Feifei"
+    },
+    {
+      "name": "He, Menglu"
+    },
+    {
+      "name": "Xu, Jinlong"
+    }
+  ],
+  "keywords": [
+    "critical care",
+    "randomized controlled trials",
+    "control event rate",
+    "statistical power",
+    "minimum detectable effect"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open"
+}

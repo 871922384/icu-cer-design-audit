@@ -1,0 +1,65 @@
+{
+  "release": "v1.0.0",
+  "files": [
+    {
+      "path": ".zenodo.json",
+      "sha256": "857c8506a7eb2b81b05c2a077bd21d895663be60c2c1f337c32306de6a61dbd3"
+    },
+    {
+      "path": "CITATION.cff",
+      "sha256": "6bd0bd3ee4602313b11839b7905e619426053bd4728e8852e72d49ce0fda6ac6"
+    },
+    {
+      "path": "LICENSE-CODE",
+      "sha256": "124780d1479065ed1ac434c65817d4bd139505d91f6426d006329c45213244be"
+    },
+    {
+      "path": "LICENSE-DATA",
+      "sha256": "d8f273d8b4fa120b1365f0f6ff5751b391ce1d23bd788cea854fecc81d7c35d6"
+    },
+    {
+      "path": "README.md",
+      "sha256": "4a55a9011e832ebca17774c154917d3032e2bcd24f483d8896d0c1cac46f88c7"
+    },
+    {
+      "path": "notes/data-dictionary.csv",
+      "sha256": "a3d454e3ff7443f292ad9b354241dc59338ff722c86975d9d2a4c8a3f9031718"
+    },
+    {
+      "path": "output/figures/Figure 1 - CER assumption error.png",
+      "sha256": "13b776b2da5c8ed95a2129f481b5dbf90984f476ed51b52a5c1da7cc471d448a"
+    },
+    {
+      "path": "output/figures/Figure 2 - Counterfactual MDE ratio.png",
+      "sha256": "b86534f200993096ee12117da5fa92fff70097d1ed429c9fde496c9e4914f482"
+    },
+    {
+      "path": "output/tables/Table 1 - Formal analysis summary.csv",
+      "sha256": "baf461e5e62664d61eb21bd6c7c13518a8ff6d029adf4fcbad2fec647e920d57"
+    },
+    {
+      "path": "output/tables/Table 2 - CER-compromised negative trials.csv",
+      "sha256": "a15bfc1afbc66ea30a10d8870a8b32266de360bbfb47caa3e70cdf8358c382de"
+    },
+    {
+      "path": "protocols/02_formal研究设计协议_v0.2.md",
+      "sha256": "c8470def48322efcf16838d00230c7155f62d72404d44ecdbbc4dc8a6fc4c673"
+    },
+    {
+      "path": "scripts/build_formal_analysis_outputs.R",
+      "sha256": "656475abc71406f1c12d27444f7ab206db8743d1af7f5d88f76ea5d0036f1b75"
+    },
+    {
+      "path": "tests/test_formal_analysis_outputs.R",
+      "sha256": "b3e55fdf81d07eb600eefd9634da219b3267ba99600f9c6de515caacfee3f794"
+    },
+    {
+      "path": "workspace/analysis/formal analysis summary.csv",
+      "sha256": "baf461e5e62664d61eb21bd6c7c13518a8ff6d029adf4fcbad2fec647e920d57"
+    },
+    {
+      "path": "workspace/data/formal_extraction.csv",
+      "sha256": "6e4667c5afc8213e9297ef6a2fb9eeb5fa5ff5db98d904c55e9ec213512195d8"
+    }
+  ]
+}
