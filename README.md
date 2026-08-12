@@ -37,4 +37,4 @@ The `control_event_rate_compromised` flag is a design-power diagnostic. It does 
 
 ## Citation
 
-Use the metadata in `CITATION.cff`. The release DOI, when minted, is the preferred citation for this archive.
+Use the metadata in `CITATION.cff`. The preferred citation for this archive is https://doi.org/10.5281/zenodo.21904231 (Zenodo version 1.0.0).
