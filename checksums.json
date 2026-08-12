@@ -7,7 +7,7 @@
     },
     {
       "path": "CITATION.cff",
-      "sha256": "6bd0bd3ee4602313b11839b7905e619426053bd4728e8852e72d49ce0fda6ac6"
+      "sha256": "599fe13ace2877ea8addb4ba75687a0130aa99e7182e1d0d844afa7292628602"
     },
     {
       "path": "LICENSE-CODE",
@@ -19,7 +19,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "4a55a9011e832ebca17774c154917d3032e2bcd24f483d8896d0c1cac46f88c7"
+      "sha256": "52aa16b094d783e7bd33cb3f03a63e0733ab6612291820e439e2493bb495cb3f"
     },
     {
       "path": "notes/data-dictionary.csv",
